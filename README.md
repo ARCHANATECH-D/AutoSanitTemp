@@ -10,10 +10,16 @@ The design depicted shows the preventive measure that can be taken during the CO
 ii Components
 
 1.ARDUINO NANO 3.0
+
 2.ULTRASONIC RANGING MODULE HC -SR04
+
 3.DC MOTOR /SUBMERSIBLE SPRAY PUMP
+
 4.SG90 9 g Micro Servo
+
 5.TEMPERATURE SENSOR[MLX90614]
+
 6.BUZZER
+
 7.BREAD BOARD
 
